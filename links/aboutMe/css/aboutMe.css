@@ -1,131 +1,128 @@
 * {
-    margin: 0;
-    padding: 0;
-    
+  margin: 0;
+  padding: 0;
 }
 body {
-    background-image: url('../images/abtMe.jpg');
-    background-size: 100%;
-    color: #13FFFA;
+  background-image: url("../images/abtMe.jpg");
+  background-size: cover;
+  color: #13fffa;
 }
 nav {
-    width: 100%;
-    margin-left: 50px;
-    height: 60px;
-    background-color: #000000;
-    box-shadow: 0px 10px 0px 0px #13FFFA;
+  width: 100%;
+  margin-left: 50px;
+  height: 60px;
+  background-color: #000000;
+  box-shadow: 0px 10px 0px 0px #13fffa;
 }
 nav p {
-    color: #FFFFFF;
-    font-size: 40px;
-    line-height: 55px;
-    float: left;
-    padding: 0px 20px;
-    font-family: 'Caveat', cursive;
+  font-family: arial;
+  color: #ffffff;
+  font-size: 24px;
+  line-height: 55px;
+  float: left;
+  padding: 0px 20px;
 }
 nav ul {
-    float: left;
-    background-color: black;
-    color: #FFFFFF;
+  float: left;
+  background-color: black;
+  color: #ffffff;
 }
 nav ul li {
-    float: left;
-    background-color: black;
-    color: black;
-    list-style: none;
-    position: relative;
+  float: left;
+  background-color: black;
+  color: black;
+  list-style: none;
+  position: relative;
 }
 nav ul li a {
-    display: block;
-    font-family: Monument Extended;
-    color: #FFFFFF;
-    font-size: 40px;
-    padding: 0px 14px;
-    text-decoration: none;
-    font-family: 'Caveat', cursive;
+  display: block;
+  font-family: Monument Extended;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 22px 14px;
+  text-decoration: none;
 }
 nav ul li ul {
-    display: none;
-    position: absolute;
-    background-color: #fff;
-    padding: 10px;
-    border-radius: 0px 0px 4px 4px;
+  display: none;
+  position: absolute;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 0px 0px 4px 4px;
 }
 nav ul li:hover ul {
-    display: block;
-    
+  display: block;
 }
 nav ul li ul li a {
-    background-color: #fff;
-    color: black;
-    padding: 12px 14px;
+  background-color: #fff;
+  color: black;
+  padding: 12px 14px;
 }
 nav ul li ul li a:hover {
-    color: black;
-    padding: 15px 20px;
+  color: black;
+  padding: 15px 20px;
 }
 nav ul li ul li {
-    border-radius: 4px;
-    box-shadow: black 10px;
-    width: 180px;
+  border-radius: 4px;
+  box-shadow: black 10px;
+  width: 180px;
 }
 body div h1 {
-    margin-left: 350px;
-    font-size: 50px;
-    background-color: #595959;
-    margin-top: 210px;
-    padding: 25px;
-    height: 50px;
-    width: 275px;
-    font-family: 'Caveat', cursive;
-    border-radius: 50px;
-    box-shadow: 0px 0px 120px 0px #13FFFA;
+  margin-left: 350px;
+  font-size: 50px;
+  background-color: #595959;
+  margin-top: 210px;
+  padding: 25px;
+  height: 50px;
+  width: 275px;
+  font-family: arial;
+  border-radius: 50px;
+  box-shadow: 0px 0px 120px 0px #13fffa;
 }
 h1 {
-    color: #FFE300;
-    margin-left: 10px;
+  color: #ffe300;
+  margin-left: 10px;
 }
 body div p {
-    margin-left: 0px;
-    font-size: 50px;
-    background-color: #595959;
-    margin-top: 130px;
-    padding: 25px;
-    font-family: 'Caveat', cursive;
-    height: 250;
-    width: 100%;
-    border-radius: 50px;
-    box-shadow: 0px 0px 120px 0px #13FFFA;
+  margin-left: 0px;
+  font-size: 50px;
+  background-color: #595959;
+  margin-top: 130px;
+  padding: 25px;
+  font-family: arial;
+  height: 250;
+  width: 100%;
+  border-radius: 50px;
+  box-shadow: 0px 0px 120px 0px #13fffa;
 }
 p {
-    color: white;
-    margin-left: 10px;
+  color: white;
+  margin-left: 10px;
 }
 body div .myEXP {
-    margin-left: 310px;
-    font-size: 50px;
-    background-color: #595959;
-    margin-top: 130px;
-    padding: 25px;
-    height: 50px;
-    width: 380px;
-    border-radius: 50px;
-    box-shadow: 0px 0px 120px 0px #13FFFA;
-    font-family: 'Caveat', cursive;
+  margin-left: 310px;
+  font-size: 50px;
+  background-color: #595959;
+  margin-top: 130px;
+  padding: 25px;
+  height: 50px;
+  width: 380px;
+  border-radius: 50px;
+  box-shadow: 0px 0px 120px 0px #13fffa;
+  font-family: arial;
 }
 img {
-    height: 100px;
-    margin-left: 120px;
-    margin-top: 30px;
+  height: 100px;
+  margin-left: 120px;
+  margin-top: 30px;
 }
 .html {
-    margin-left: 230px;
+  margin-left: 230px;
 }
 .images {
-    margin-top: 120px;
-    height: 200px;
-    width: 100%;
-    border-radius: 50px;
-    background-color: #565656;
-    box-shadow: 0px 0px 120px 0px #13FFFA;
+  margin-top: 120px;
+  height: 200px;
+  width: 100%;
+  border-radius: 50px;
+  background-color: #565656;
+  box-shadow: 0px 0px 120px 0px #13fffa;
 }
