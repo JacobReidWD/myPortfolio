@@ -3,8 +3,8 @@
   padding: 0;
 }
 body {
+  background-image: url('../images/abtMe.png')
   background-size: cover;
-  backgroud-image: url('../images/abtMe.png');
   color: #13fffa;
 }
 nav {
@@ -115,7 +115,7 @@ img {
   margin-top: 30px;
 }
 .html {
-  margin-left: 450px;
+  margin-left: 230px;
 }
 .images {
   margin-top: 120px;
