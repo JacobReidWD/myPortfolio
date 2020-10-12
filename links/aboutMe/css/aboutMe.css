@@ -3,9 +3,10 @@
   padding: 0;
 }
 body {
-  background-image: url('../images/bg.png');
-  background-size: cover;
-  color: #13fffa;
+    background-image: url('../images/bg.jpg');
+    background-size: 100%;
+    height: 2000px:
+    color: #13FFFA;
 }
 nav {
   width: 100%;
