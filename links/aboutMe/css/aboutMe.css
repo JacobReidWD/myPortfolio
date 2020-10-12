@@ -125,5 +125,6 @@ img {
 }
 body div .myEXP {
     height: 120px;
-    width: ;
+    width: 1000px;
+    margin-left: 120px;
 }
