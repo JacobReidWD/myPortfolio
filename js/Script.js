@@ -11,7 +11,7 @@ function changeBgColor(obj, colorName) {
 }
 
 function changeColorUI(obj, colorName) {
-  if (obj.style.color == "black") {
+  if (obj.style.color == "colorName") {
     obj.style.color = "colorName";
   } else {
     obj.style.color = colorName;
