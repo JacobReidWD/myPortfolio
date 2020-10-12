@@ -123,4 +123,6 @@ img {
   border-radius: 50px;
   background-color: #565656;
 }
-div
+body div .myEXP {
+    height: 13;
+}
