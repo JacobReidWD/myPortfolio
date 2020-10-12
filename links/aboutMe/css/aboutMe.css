@@ -4,7 +4,7 @@
 }
 body {
   background-size: cover;
-  backgroud-image: url('../images/abtMe.png')
+  backgroud-image: url('../images/abtMe.png');
   color: #13fffa;
 }
 nav {
