@@ -1,10 +1,10 @@
-                                                    ###-------- the Home Page --------###
+                                                    ###the Home Page
 #Welcome, and thank you for visiting my portfolio. As well as taking interest in reading the README file.
 #Here you will find a navigation bar of different links, if you read below you can see where each link will take you, and what to expect.
 
 
 
-                                               ###-------- under "MY Portfolio"------------###
+                                               ###under "MY Portfolio"
 
 #You can view everything about who I am and my expierience by navigating under "My Portfolio" and going to "About Me".
 
