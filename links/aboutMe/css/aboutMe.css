@@ -99,13 +99,13 @@ p {
   margin-left: 10px;
 }
 body div .myEXP {
-  margin-left: 450px;
-  font-size: 50px;
+  margin-left: 500px;
+  font-size: 30px;
   background-color: #595959;
   margin-top: 130px;
   padding: 25px;
-  height: 65px;
-  width: 380px;
+  height: 30px;
+  width: 230px;
   border-radius: 50px;
   font-family: arial;
 }
