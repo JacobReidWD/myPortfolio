@@ -5,6 +5,7 @@
 body {
   background-color: #302f2f;
   background-size: 100%;
+  backgroud-image: url('../images/abtMe.png')
   color: #13fffa;
 }
 nav {
