@@ -1,33 +1,107 @@
 <html>
-    <head>
-        <script src="js/Script.js"></script>
-    </head>
-    <title>Jacob Reid</title>
-    <link href='css/Portfolio.css' rel="stylesheet" type="text/css">
-    <nav>
-        <p onmouseover="changeColor(this)" onmouseout="changeColorUI(this,'white')">Jacob Reid</p>
+  <head>
+    <script src="js/Script.js"></script>
+  </head>
+  <title>Jacob Reid</title>
+  <link href="css/Portfolio.css" rel="stylesheet" type="text/css" />
+  <nav>
+    <p onmouseover="changeColor(this)" onmouseout="changeColorUI(this,'white')">
+      Jacob Reid
+    </p>
+    <ul>
+      <li>
+        <a
+          href="index.html"
+          onmouseover="changePos(this,'5px'); changeColor(this)"
+          onmouseout="changePos(this,'0px'); changeColorUi(this,'white')"
+          >Home</a
+        >
+      </li>
+      <li>
+        <a
+          href="#"
+          onmouseover="changeColor(this)"
+          onmouseout="changeColorUI(this,'white')"
+          >My Portfolio</a
+        >
         <ul>
-            <li><a href='index.html' onmouseover="changePos(this,'5px'); changeColor(this)" onmouseout="changePos(this,'0px'); changeColorUi(this,'white')">Home</a></li>
-            <li><a href='#' onmouseover="changeColor(this)" onmouseout="changeColorUI(this,'white')">My Portfolio</a>
-            <ul>
-                <li><a href='links/aboutMe/index.html' onmouseover"changeColorUI(this,'13FFFA'); changeBgColor(this,'grey')" onmouseout="changeBgColor(this,'white'); changeColorUI(this,'black')">About Me</a></li>
-                <li><a href='#' onmouseover="changeBgColor(this,'grey'); changeColor(this)" onmouseout="changeBgColor(this,'white'); changeColorUI(this,'black')">My projects</a></li>
-                <li><a href='#' onmouseover="changeColor(this); changeBgColor(this,'grey')" onmouseout="changeBgColor(this,'white'); changeColorUI(this,'black')">My Plans & Goals</a></li>
-            </ul>
-            </li>
-            <li><a href='#' onmouseover="changeColor(this)" onmouseout="changeColorUI(this,'white')">Contact Me</a>
-            <ul>
-                <li><a href="https://www.twitter.com/KhartKaroo" onmouseover="changeColor(this); changeBgColor(this,'grey')" onmouseout="changeBgColor(this,'white'); changeColorUI(this,'black')">Twitter</a></li>
-                <li><a href="https://github.com/KhartKaroo-dev" onmouseover="changeColor(this); changeBgColor(this,'grey')" onmouseout="changeBgColor(this,'white'); changeColorUI(this,'black')">GitHub</a></li>
-            </ul>
-            </li>
+          <li>
+            <a
+              href="links/aboutMe/index.html"
+              onmouseover="changeColorUI(this,'13FFFA'); changeBgColor(this,'grey')"
+              onmouseout="changeBgColor(this,'white'); changeColorUI(this,'black')"
+              >About Me</a
+            >
+          </li>
+          <li>
+            <a
+              href="#"
+              onmouseover="changeBgColor(this,'grey'); changeColor(this)"
+              onmouseout="changeBgColor(this,'white'); changeColorUI(this,'black')"
+              >My projects</a
+            >
+          </li>
+          <li>
+            <a
+              href="#"
+              onmouseover="changeColor(this); changeBgColor(this,'grey')"
+              onmouseout="changeBgColor(this,'white'); changeColorUI(this,'black')"
+              >My Plans & Goals</a
+            >
+          </li>
         </ul>
-    </nav>
-    <body>
-        <div onmouseover="changeShadow(this,'0px 0px 120px 0px white')" onmouseout="changeShadow(this,'0px 0px 120px 0px #13FFFA')">
-            <h2 onmouseover="changeColorUI(this,'white'); changeSize(this,'45px')" onmouseout="changeColorUI(this,'#959693'); changeSize(this,'40px')">Hello, I am</h2>
-            <h1 onmouseover="changeColorUI(this,'white'); changeSize(this, '65')" onmouseout="changeColorUI(this,'#13FFFA'); changeSize(this, '60px')">Jacob Reid,</h1>
-            <h3 onmouseover="changeColor(this); changeSize(this,'35px')" onmouseout="changeColorUI(this,'white'); changeSize(this,'30px')">An aspiring web developer.</h3>
-        </div>
-    </body>
+      </li>
+      <li>
+        <a
+          href="#"
+          onmouseover="changeColor(this)"
+          onmouseout="changeColorUI(this,'white')"
+          >Contact Me</a
+        >
+        <ul>
+          <li>
+            <a
+              href="https://www.twitter.com/KhartKaroo"
+              onmouseover="changeColor(this); changeBgColor(this,'grey')"
+              onmouseout="changeBgColor(this,'white'); changeColorUI(this,'black')"
+              >Twitter</a
+            >
+          </li>
+          <li>
+            <a
+              href="https://github.com/KhartKaroo-dev"
+              onmouseover="changeColor(this); changeBgColor(this,'grey')"
+              onmouseout="changeBgColor(this,'white'); changeColorUI(this,'black')"
+              >GitHub</a
+            >
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+  <body>
+    <div
+      onmouseover="changeShadow(this,'0px 0px 120px 0px white')"
+      onmouseout="changeShadow(this,'0px 0px 120px 0px #13FFFA')"
+    >
+      <h2
+        onmouseover="changeColorUI(this,'white'); changeSize(this,'45px')"
+        onmouseout="changeColorUI(this,'#959693'); changeSize(this,'40px')"
+      >
+        Hello, I am
+      </h2>
+      <h1
+        onmouseover="changeColorUI(this,'white'); changeSize(this, '65')"
+        onmouseout="changeColorUI(this,'#13FFFA'); changeSize(this, '60px')"
+      >
+        Jacob Reid,
+      </h1>
+      <h3
+        onmouseover="changeColor(this); changeSize(this,'35px')"
+        onmouseout="changeColorUI(this,'white'); changeSize(this,'30px')"
+      >
+        An aspiring web developer.
+      </h3>
+    </div>
+  </body>
 </html>
