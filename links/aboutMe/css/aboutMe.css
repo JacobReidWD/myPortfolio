@@ -124,5 +124,6 @@ img {
   background-color: #565656;
 }
 body div .myEXP {
-    height: 13;
+    height: 120px;
+    width: 400px;
 }
