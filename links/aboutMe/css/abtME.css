@@ -67,7 +67,7 @@ nav ul li ul li {
   width: 180px;
 }
 body div .Who {
-  font-size: 10px;
+  font-size: 30px;
   background-color: #595959;
   margin-top: 210px;
   height: 30px;
@@ -133,13 +133,12 @@ body div .MyEXP {
     padding: 25px;
 }
 body div .Languages {
-    width: 245px;
+    width: 270px;
     height: 20px;
     font-size: 30px;
     background-color: #595959;
     margin-top: 210px;
-    font-family: arial;
-    display: center;
+    font-family: arial;`
     margin-left: 510px;
     padding: 30px;
     border-radius: 50px;
