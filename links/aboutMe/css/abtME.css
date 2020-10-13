@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Piazzolla:ital,wght@1,500&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -72,8 +73,7 @@ body div .Who {
   margin-top: 210px;
   height: 30px;
   width: 170px;
-  font-family: arial;
-  display: center;
+  font-family: 'Piazzolla', serif;  display: center;
   margin-left: 560px;
   padding: 30px;
   border-radius: 50px;
@@ -103,8 +103,7 @@ body div .myExp2 {
   height: 30px;
   width: 260px;
   border-radius: 50px;
-  font-family: arial;
-  color: #ffe300;
+  font-family: 'Piazzolla', serif;  color: #ffe300;
 }
 img {
   height: 100px;
@@ -138,8 +137,7 @@ body div .Languages {
     font-size: 30px;
     background-color: #565656;
     margin-top: 145px;
-    font-family: arial;`
-    margin: 420px;
+    font-family: 'Piazzolla', serif;    margin: 420px;
     padding: 30px;
     border-radius: 50px;
     color: #ffe300;
