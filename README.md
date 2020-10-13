@@ -14,7 +14,7 @@ Here you will find a navigation bar of different links, if you read below you ca
 - You can also view a list of the things and ideas that I hope to see in the future of my career by going to "MY Plans & Goals".
 
 
-     ### under "Contact Me"
+     # under "Contact Me"
 
 - Here you will find a list of two different link of where to find me, including here on my GtHub and my eamil address as well.
 
