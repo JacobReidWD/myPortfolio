@@ -66,7 +66,7 @@ nav ul li ul li {
   box-shadow: black 10px;
   width: 180px;
 }
-body div h1 {
+body div .Who {
   font-size: 30px;
   background-color: #595959;
   margin-top: 210px;
@@ -77,8 +77,6 @@ body div h1 {
   margin-left: 560px;
   padding: 30px;
   border-radius: 50px;
-}
-h1 {
   color: #ffe300;
   margin-left: 10px;
 }
@@ -107,6 +105,8 @@ body div .myExp2 {
   width: 260px;
   border-radius: 50px;
   font-family: arial;
+  color: #ffe300;
+  margin-left: 10px;
 }
 img {
   height: 100px;
