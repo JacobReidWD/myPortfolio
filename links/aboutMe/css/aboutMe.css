@@ -124,7 +124,7 @@ img {
   background-color: #565656;
 }
 body div .MyEXP {
-    margin-left: 700px;
+    left: 700px;
     height: 155px;
     width: 1000px;
     border-radius: 50px;
