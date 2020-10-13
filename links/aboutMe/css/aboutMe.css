@@ -134,3 +134,15 @@ body div .MyEXP {
     margin-top: 130px;
     padding: 25px;
 }
+body div .Languages {
+  font-size: 30px;
+  background-color: #595959;
+  margin-top: 210px;
+  height: 30px;
+  width: 170px;
+  font-family: arial;
+  display: center;
+  margin-left: 560px;
+  padding: 30px;
+  border-radius: 50px;
+}
