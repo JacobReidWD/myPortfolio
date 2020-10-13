@@ -1,3 +1,7 @@
+  ## Site Link
+  https://jacobreidwd.github.io/myPortfolio/
+  
+  
   # The Home Page
 
 Welcome, and thank you for visiting my portfolio. As well as taking interest in reading the README file.
@@ -16,7 +20,7 @@ Here you will find a navigation bar of different links, if you read below you ca
 
      # Under "Contact Me"
 
-- Here you will find a list of two different link of where to find me, including here on my GtHub and my eamil address as well.
+- Here you will find a list of two different link of where to find me, including here on my GitHub and my email address as well.
 
 
 
