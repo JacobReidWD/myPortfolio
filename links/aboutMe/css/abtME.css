@@ -144,4 +144,6 @@ body div .Languages {
     border-radius: 50px;
     color: #ffe300;
 }
-
+body .lang {
+    margin-left: 420px;
+}
