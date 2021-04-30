@@ -90,6 +90,17 @@ body div .abtMe {
   width: 1000px;
   border-radius: 50px;
 }
+body div .Myresume {
+margin-left: 120px;
+  font-size: 36px;
+  background-color: #595959;
+  margin-top: 20px;
+  padding: 20px;
+  font-family: arial;
+  height: 200px;
+  width: 1000px;
+  border-radius: 50px;
+}
 p {
   color: white;
   margin-left: 10px;
