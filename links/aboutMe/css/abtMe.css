@@ -91,16 +91,16 @@ body div .abtMe {
   border-radius: 50px;
 }
 body div .MyResume {
-  margin-left: 520px;
-  font-size: 30px;
+   font-size: 30px;
   background-color: #595959;
-  margin-top: 130px;
-  display: center;
-  padding: 25px;
+  margin-top: 210px;
   height: 30px;
-  width: 150px;
-  border-radius: 50px;
+  width: 170px;
   font-family: arial;
+  display: center;
+  margin-left: 560px;
+  padding: 30px;
+  border-radius: 50px;
   color: #ffe300;
 }
 body div .myResume {
