@@ -103,7 +103,7 @@ font-size: 30px;
   border-radius: 50px;
   color: #ffe300;
 }
-div body .myResume {
+body div .myResume {
     margin-left: 150px;
     height: 155px;
     width: 1000px;
